@@ -1,6 +1,6 @@
 # Hacking.rio
 O Maior HackAthon da América Latina
-<h1>Estamos defendenco o Maior Clube do mundo!</h1>
+<h1>Estamos defendendo o Maior Clube do mundo!</h1>
 <h2>Desafio: </h2>
 <h3>Como gerar uma experiência diversificada, interativa e inclusiva para quem não pode ir ao Estádio nos dias de Jogo? </h3>
 
