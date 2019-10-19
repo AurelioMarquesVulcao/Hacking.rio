@@ -1,5 +1,7 @@
 /* Base */
 body {
+
+
   line-height: 1.7;
   color: rgba(255, 255, 255, 0.5);
   font-weight: 400;
@@ -1789,3 +1791,4 @@ figure figcaption {
         .comment-list li .comment-body .reply:hover {
           color: #fff;
           background: #e3207b; }
+
