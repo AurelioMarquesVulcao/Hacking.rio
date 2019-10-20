@@ -6,4 +6,4 @@ O Maior HackAthon da América Latina
 
 <p>Atualmente o Maracanã, considerado a casa do Flamengo, possui capacidade limitada de torcedores. Grande parte da torcida do Flamengo está fora do Rio de Janeiro. Como podemos criar tecnologias imersivas que gerem interação e experiencia única para quem não pode ir ao estádio?
 
-![Alt ou título da imagem](GABIGOL.png)
+![Alt ou título da imagem](0011.jpg)
